@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fethi</h1>
 - 🌱 I’m currently learning java, flutter, python
-
 - 📫 How to reach me fethisoualma05@gmail.com
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
